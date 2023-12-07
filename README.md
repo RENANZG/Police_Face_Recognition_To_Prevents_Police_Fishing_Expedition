@@ -1,3 +1,5 @@
+### Concept phase for a machine learning system that prevents police "fishing expedition" techniques.
+
 # Australian-Politician-Face-Recognition
 
 This repository contains the source code for COMP90055 project Australian Politician Face Recognition.
